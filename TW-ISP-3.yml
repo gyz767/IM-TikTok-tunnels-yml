@@ -9,7 +9,7 @@ external-controller: 0.0.0.0:9090
 tunnels:
 - network: [tcp, udp]
   address: 127.0.0.1:10030
-  target: twisp2.kkmm2024.top:10030
+  target: twisp3.kkmm2024.top:10030
   proxy: 🇭🇰 HKG 01
 sniffer:
   sniff:
