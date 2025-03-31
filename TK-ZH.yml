@@ -11,7 +11,6 @@ tunnels:
   address: 127.0.0.1:31198
   target: twisp1.kkmm2024.top:31198
   proxy: 🇭🇰 HKG 01
-tunnels:
 - network: [tcp, udp]
   address: 127.0.0.1:10030
   target: twbgp2.kkmm2024.top:10030
